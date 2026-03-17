@@ -1,11 +1,7 @@
 {
   "entityType" : "DEVICE",
   "entity" : {
-    "additionalInfo" : {
-      "gateway" : false,
-      "overwriteActivityTime" : false,
-      "description" : ""
-    },
+    "additionalInfo" : null,
     "customerId" : {
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
@@ -22,20 +18,23 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "5b6d23d0-84bd-11f0-9cc2-6f3b558016bd"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "19125180-21ee-11f1-87fb-336ff60b6b9e"
+      "id" : "5b6d23d0-84bd-11f0-9cc2-6f3b558016bd"
     },
-    "label" : "",
-    "name" : "aww",
+    "label" : null,
+    "name" : "SN-457",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "UcapxOZjdj9jv6iwZ8Sr",
+    "credentialsId" : "NUaX2Tb3p6biMOlPwSNZ",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +45,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773744801833,
+      "lastUpdateTs" : 1756462166187,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -54,11 +53,27 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1773744801815,
-      "longValue" : 1773744801814,
+      "lastUpdateTs" : 1756462166164,
+      "longValue" : 1756462166162,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1756461513575,
+      "longValue" : 1756461511856,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ ]
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "firmware",
+      "lastUpdateTs" : 1756461441773,
+      "longValue" : null,
+      "strValue" : "v1.1"
+    } ]
   },
   "calculatedFields" : [ ]
 }

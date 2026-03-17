@@ -4,7 +4,7 @@
     "additionalInfo" : {
       "gateway" : false,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "NewDeviceNewDeviceNewDeviceNewDeviceNewDeviceNewDevice"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -26,16 +26,16 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "19125180-21ee-11f1-87fb-336ff60b6b9e"
+      "id" : "fa27d930-21ec-11f1-afd7-eb430bfb427f"
     },
-    "label" : "",
-    "name" : "aww",
+    "label" : "NewDevice",
+    "name" : "NewDevice",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "UcapxOZjdj9jv6iwZ8Sr",
+    "credentialsId" : "JHJ7syz6uvlWeA6wZrtW",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +46,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773744801833,
+      "lastUpdateTs" : 1773744321785,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -54,8 +54,8 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1773744801815,
-      "longValue" : 1773744801814,
+      "lastUpdateTs" : 1773744321781,
+      "longValue" : 1773744321780,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]

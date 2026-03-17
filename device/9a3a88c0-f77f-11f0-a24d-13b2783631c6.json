@@ -4,7 +4,7 @@
     "additionalInfo" : {
       "gateway" : false,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend hendrerit justo, eu varius velit suscipit vulputate. Maecenas mattis, massa ac viverra hendrerit, velit augue facilisis ex, sit amet posuere velit enim in ligula."
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -20,22 +20,25 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
+      "id" : "aac545f0-84ce-11f0-9dcf-813811befd2b"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "9a3a88c0-f77f-11f0-a24d-13b2783631c6"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "19125180-21ee-11f1-87fb-336ff60b6b9e"
+      "id" : "9a3a88c0-f77f-11f0-a24d-13b2783631c6"
     },
     "label" : "",
-    "name" : "aww",
+    "name" : "repDevice",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "default"
+    "type" : "thermostat"
   },
   "credentials" : {
-    "credentialsId" : "UcapxOZjdj9jv6iwZ8Sr",
+    "credentialsId" : "w0OwPAljnMyJYn3UmF9i",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +49,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773744801833,
+      "lastUpdateTs" : 1769079825349,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -54,8 +57,8 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1773744801815,
-      "longValue" : 1773744801814,
+      "lastUpdateTs" : 1769079825345,
+      "longValue" : 1769079825343,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
