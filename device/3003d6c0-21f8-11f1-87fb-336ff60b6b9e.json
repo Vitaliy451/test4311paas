@@ -26,16 +26,16 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "b50a6780-21f8-11f1-afd7-eb430bfb427f"
+      "id" : "3003d6c0-21f8-11f1-87fb-336ff60b6b9e"
     },
     "label" : "",
-    "name" : "fmhgum",
+    "name" : "gzbdr",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "BgkxOFrxxiUwDnwvH8Bt",
+    "credentialsId" : "iJFVObqYddQpoT0hWnAk",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +46,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773748749855,
+      "lastUpdateTs" : 1773748526671,
       "longValue" : null,
       "strValue" : null
     } ],

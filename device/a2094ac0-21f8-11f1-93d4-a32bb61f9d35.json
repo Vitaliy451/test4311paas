@@ -26,16 +26,16 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "b50a6780-21f8-11f1-afd7-eb430bfb427f"
+      "id" : "a2094ac0-21f8-11f1-93d4-a32bb61f9d35"
     },
     "label" : "",
-    "name" : "fmhgum",
+    "name" : "mfgmum",
     "ownerId" : null,
     "softwareId" : null,
     "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "BgkxOFrxxiUwDnwvH8Bt",
+    "credentialsId" : "qMsrGcaYCL1LcGPC7ym5",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +46,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1773748749855,
+      "lastUpdateTs" : 1773748717971,
       "longValue" : null,
       "strValue" : null
     } ],
